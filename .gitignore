@@ -36,6 +36,7 @@ $RECYCLE.BIN/
 *.psess
 *.vsp
 *.vspx
+*.txt
 
 # =========================
 # Operating System Files
